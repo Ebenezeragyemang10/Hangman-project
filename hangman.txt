@@ -1,0 +1,12 @@
+hangman project
+===============
+
+what the project does
+--------------------
+1.you will have a python list of words#
+2. you will select one at random
+3. you will present user with dashes instead of word, but number of dash will be equal to number of letters
+in the word
+4. user guess the letters in the word, if guess is right, they continue till they win if guess is wrong they loss a life.
+5. life is equal to the number of letters in the word
+6. keep struggling till you figure it out
